@@ -1,0 +1,21 @@
+
+#sidebar-wrapper {
+    background: #4d524d;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #424242, #4d524d);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #424242, #4d524d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.text-color{
+    color: #6E5750!important;
+}
+.border_bottom_custom{
+    border-bottom:2px dashed #6E5750!important;
+}
+.scroll_y_auto{
+    overflow:auto;
+    max-height:100vh
+}
+
+.content_bg{
+    background-color: #F1F3F4;
+}
+
