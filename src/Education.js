@@ -1,3 +1,4 @@
+import React from "react";
 export default  function Education({educationItem}) {
     return(
         <div className="d-flex py-1">

@@ -1,3 +1,4 @@
+import React from "react";
 export default function Languages({languages}) {
     return(
         <div>

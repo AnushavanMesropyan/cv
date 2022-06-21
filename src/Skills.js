@@ -1,3 +1,4 @@
+import React from "react";
 export default function Skills({skillList}) {
     return(
         <div className="me-auto">

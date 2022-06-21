@@ -1,5 +1,5 @@
+import React,{useState} from "react";
 import Skills from "./Skills";
-import {useState} from "react";
 import Languages from "./Languages";
 
 export default function SkillsLanguages() {

@@ -1,4 +1,4 @@
-import {useState} from "react";
+import React,{useState} from "react";
 import Experien from "./Experien";
 import Education from "./Education";
 import SkillsLanguages from "./SkillsLanguages";
